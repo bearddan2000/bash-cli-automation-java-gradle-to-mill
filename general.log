@@ -1,0 +1,5 @@
+[2022-08-09 15:16:47 INFO]: install::decompress decompress db/data_dump.tar.gz 
+[2022-08-09 15:16:47 INFO]: install::decompress removing data_dump.tar.gz 
+[2022-08-09 15:16:47 INFO]: install::decompress changing directory back
+[2022-08-09 15:16:47 INFO]: install::decompress ended
+================
